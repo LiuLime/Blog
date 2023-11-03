@@ -17,4 +17,5 @@ $ git commit -m "add post_name.md"
 $ git push
 ```
 ## Notice !
-所有图片资源请放在static文件夹下
+所有图片资源请放在static文件夹下。  
+Hugo主题star数排行榜请参照[link](https://github.com/MGMCN/hugoThemesRanking/blob/main/list.md)。
