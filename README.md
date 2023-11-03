@@ -1,4 +1,6 @@
 # [Blog](https://blog.liulime.com)
+[![image](https://img.shields.io/github/deployments/LiuLime/Blog/Production?label=vercel&logo=vercel&style=for-the-badge)](https://github.com/LiuLime/Blog/deployments)
+![image](https://img.shields.io/github/last-commit/LiuLime/Blog?color=red&logo=github&style=for-the-badge)  
 ## 本地预览
 ```bash
 $ brew install hugo # 如果没有安装hugo的话，请运行该指令
