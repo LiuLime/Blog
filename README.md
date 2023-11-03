@@ -1,4 +1,4 @@
-# Blog
+# [Blog](https://blog.liulime.com)
 ## 本地预览
 ```bash
 $ brew install hugo # 如果没有安装hugo的话，请运行该指令
