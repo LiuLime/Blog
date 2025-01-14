@@ -99,3 +99,6 @@ Figure1. R interpreter setting API
 
 **Supplement:     
 I installed miniforge3 instead of miniconda3 before install R in virtual environment, so the path in figure 1 showed miniforge3 instead of miniconda3**
+
+@LiuLime
+copyright all reserved
