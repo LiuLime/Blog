@@ -8,7 +8,7 @@ $ hugo server # 启动后请不要关闭该终端，post编辑完成后可结束
 ```
 ## post
 ```bash
-$ hugo new --kind post content/post/post_folder/post_name.md # 新建post
+$ hugo new --kind post content/post/post_folder/post_name.md # 在新terminal窗口运行新建post
 .
 . # 编辑post 并且可以实时在本地浏览器查看预览页面
 .
